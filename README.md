@@ -3,6 +3,7 @@
 ## Installation
 
 --> `npm install react-donut-chart --save`
+--> 'npm i' to download modules 
 
 ## Usage
 
