@@ -1,6 +1,6 @@
 module.exports = [{
     label: 'Health',
-    value: 1
+    value: 1200
 },
 {
     label: 'Productivity',
